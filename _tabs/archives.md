@@ -1,7 +1,7 @@
 ---
 title:Archives
 layout: archives
-icon: fas fa-archive
+icon: "fas fa-archive"
 order: 3
 # The Archives of posts.
 # v2.0
