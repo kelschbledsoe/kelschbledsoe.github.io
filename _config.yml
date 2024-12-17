@@ -19,7 +19,9 @@ title: Gabby Kelsch Bledsoe # the main title
 tagline: Cyber Security Architect # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Blog and portfolio focused on Python, cybersecurity, STEM education, and other technical things.
+  Blog and portfolio focused on 
+  Python, cybersecurity, STEM education, 
+  and other technical things.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,7 +44,7 @@ social:
     - https://github.com/kelschbledsoe # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    https://www.linkedin.com/in/kelschbledsoe
+    - https://www.linkedin.com/in/kelschbledsoe
 
 # Site Verification Settings
 webmaster_verifications:
