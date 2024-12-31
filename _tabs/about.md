@@ -11,8 +11,8 @@ I am a Cybersecurity Professional focused on vulnerability management and automa
 
 I have worked in many different companies, industries, roles, and languages, with each opportunity teaching me valuable lessons about myself and the tech industry. Currently, my work is primarily in Python and PowerBI reporting.
 
-My technical interests include secure software development, automation, and increasing the accessibility of tech and tech careers.
+My technical interests include secure software development, automation, and increasing the accessibility of technology and technology careers.
 
-My passions outside of work include traveling, basketball, Michigan State Univeristy (Go Green!), and personal finance.
+My passions outside of work include traveling, basketball, Michigan State University (Go Green!), and personal finance.
 
 Reach out to me via email kelschbledsoe(at)gmail(dot)com for any employment or speaking opportunities!
