@@ -7,7 +7,7 @@ order: 4
 
 I am a Cybersecurity Professional focused on vulnerability management and automation.
 
-I have worked in many different companies, roles, and languages. Currently, my work in primarily in Python and PowerBI reporting.
+I have worked in many different companies, roles, and languages. Currently, my work is primarily in Python and PowerBI reporting.
 
 My technical interests include secure software development, automation, and increasing the accessibility of tech and tech careers.
 
