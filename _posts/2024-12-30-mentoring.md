@@ -24,13 +24,16 @@ I found this realization even more troubling. I thoroughly enjoyed my coursework
 - I struggled to have a clear mind when debugging any problems
 - I struggled to retain information between sessions
 - I struggled to have the confidence to believe I could learn or create something new
-This mental blockade seeped into my full-time work as well. I thought I had long covid. Or that I wasn't cut out for the tech industry. But this mental blockade was my _bleh_. **Finding the problem is half the battle**.
+
+This mental blockade seeped into my full-time work as well. I thought I had long covid. Or that I wasn't cut out for the tech industry. But this mental blockade was my _bleh_. 
+**Finding the problem is half the battle**.
 
 As a former academic weapon, I felt that going back to my roots would help with this mental blockade.
 - I enrolled in online learning courses through Cisco and LinkedIn
 - I explored topics on TryHackMe
 - I got involved in local tech groups like WiSKC and SecKC
 - I got my Security+ certification
+
 **None of these fixed my mental blockade**.
 
 ## Enter the highschoolers
@@ -40,9 +43,9 @@ Think of life like a barrel of monkeys. Someday, you'll be lucky and a kind soul
 I benefitted **immensely** throughout college and my career by kind people who were willing to lift me out of the barrel. I'm sure that as you read this, you can think of 5 people who have done that for you. I wanted to keep the chain going by mentoring a local high school group, specifically through Girls Who Code and CyberPatriots. Now, I know what you're thinking... "Gabby, you voluntarily spend your freetime with teenagers?" Yes. And it was one of the best decisions I've made in the last several years, because it fixed my mental blockade.
 
 ## Energy is contagious
-Both good vibes and bad vibes spread like wildfire. The tech industry, especially cybersecurity, can easily be dominated by _bad vibes_. Deadlines, breaches, red tape, on-call hours... this is why who you work with and for is vitally important. 
+Both good vibes and bad vibes spread like wildfire. The tech industry, especially cybersecurity, can easily be dominated by _bad vibes_. Deadlines, breaches, red tape, on-call hours... this is why who you work **with** and **for** is vitally important. 
 
-A group of high school nerds is full of _good vibes_. This is their safe space, where they can be themselves with their friends. They're excited to be there, they're excited to have an adult who understands the "real world" (more on that later), and they're excited to learn "useful" things! No matter what was going on in my life, their energy lifted me up. These _good vibes_ were critical in getting out of my funk. It allowed me to have a clear mind and calm energy when approaching any problems.
+A group of high school nerds is full of _good vibes_. This is their safe space, where they can be themselves with their friends. They're excited to be there, they're excited to have an adult who understands the "real world" (more on that later), and they're excited to learn "useful" things! No matter what was going on in my life, their energy lifted me up. These _good vibes_ were critical in me getting out of my funk. It allowed me to have a clear mind and calm energy when approaching any problems.
 
 ## You're the expert now
 As the designated adult who understands the "real world", I get asked a lot of random technical questions. 
@@ -50,11 +53,14 @@ As the designated adult who understands the "real world", I get asked a lot of r
 - Do you know anything about Rust? 
 - Can you troubleshoot these Raspberry Pi 3s that have sat in a corner collecting dust for years? 
 - Can you configure a VM to run Mint 21 and guide a student to do some basic device management on it? 
-The answer to all of that is... _maybe_. But just reflecting on these interactions gives me that _sparkle_ I was missing. Here are the **topics** and **projects**, figure it out. Somehow, a switch flipped in my brain, and suddenly I didn't have a mental blockade for these projects. I had the confidence to believe I had a decent shot at figuring these things out, at least to a level that a high schooler would understand and be able to continue their own self-discovery on the topic.
+
+The answer to all of that is... _maybe_. But just reflecting on these interactions gives me that _sparkle_ I was missing. Here are the **topics** and **projects**, figure it out. Somehow, a switch flipped in my brain, and suddenly I didn't have a mental blockade for these projects. I had the confidence to believe I had a decent shot at figuring these things out, at least to a level that a high schooler would understand and be able to continue their own self-discovery on the topic. I was entrusted to figure these things out. People were depending on me to have answers.
 
 ## The world is their oyster... and you're the fisherman!
 What do you wish you would have known in high school? What do you wish you could tell teenage you? Well, now here is your opportunity, only the kids are more stressed, more self-aware, and more talented than you ever were!
+
 No seriously, some of these kids are way smarter than me, and I'm a fairly smart cookie.
+
 By recognizing the role I play in this pivotal stage of these young adults, I was able to do a lot of self-reflection on my own academic journey.
 - I had minimal to no guidance on applying to college, understanding financial aid, and choosing a college
 - I changed my major to Computer Science on a whim, and was very behind my peers in prior knowledge, which heavily fed my imposter syndrome
