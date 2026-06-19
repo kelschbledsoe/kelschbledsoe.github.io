@@ -1,5 +1,5 @@
 ---
-title: SecKC June 2026: My first speaking engagement!
+title: SecKC June 2026 - My first speaking engagement!
 date: 2026-06-09
 categories: [Blog]
 tags: [education, professional development]
